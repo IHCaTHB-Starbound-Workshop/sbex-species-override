@@ -60,12 +60,12 @@
 
   "mrmtRegistry" : {
     "apex" : "apex",
-    "avian" : "avian",
+    "avian" : "floran",
     "floran" : "floran",
-    "glitch" : "glitch",
-    "human" : "human", 
+    "glitch" : "apex",
+    "human" : "apex", 
     "hylotl" : "floran",
-    "novakid" : "novakid",
+    "novakid" : "apex",
     "penguin" : "penguin"
   },
 
