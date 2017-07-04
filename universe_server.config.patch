@@ -29,7 +29,7 @@
   {
     "op" : "add",
     "path" : "/mrmtRegistry/avian",
-    "value" : "avian"
+    "value" : "floran"
   }
 ],[
   {
@@ -51,7 +51,7 @@
   {
     "op" : "add",
     "path" : "/mrmtRegistry/glitch",
-    "value" : "glitch"
+    "value" : "apex"
   }
 ],[
   {
@@ -62,7 +62,7 @@
   {
     "op" : "add",
     "path" : "/mrmtRegistry/human",
-    "value" : "human"
+    "value" : "apex"
   }
 ],[
   {
@@ -84,7 +84,7 @@
   {
     "op" : "add",
     "path" : "/mrmtRegistry/novakid",
-    "value" : "novakid"
+    "value" : "apex"
   }
 ],[
   {
